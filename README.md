@@ -29,7 +29,7 @@ The following Entity Relationship Diagram was created to visualise the relations
 
 4. List the department number for each employee along with that employee’s employee number, last name, first name, and department name..
 
-![image](https://github.com/user-attachments/assets/0ec7d788-5186-45a2-89dc-1b052beb9470)
+![image](https://github.com/user-attachments/assets/580a3757-6e79-4606-a377-60dac6c05f72)
 
 5. List first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
    
